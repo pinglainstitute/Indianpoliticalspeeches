@@ -39,6 +39,11 @@ The primary objectives of this project are:
 # Dataset
 
 The dataset consists of Indian political speeches collected from multiple political leaders across different years.
+The processed dataset used in this project are too large for GitHub and can be downloaded here:
+
+[Download Final Processed Speeches (CSV)](https://drive.google.com/file/d/1nVfdYws64tNtFCOyx9iKQ3r47hUO3w1O/view?usp=sharing)
+
+
 
 ### Dataset Features
 
@@ -71,4 +76,6 @@ The project includes extensive EDA for understanding political rhetoric and disc
 - Trigram analysis
 - Political phrase extraction
 - Word cloud visualization
+
+  
 
